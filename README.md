@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub profile!
 
-- 👯 I’m looking to collaborate on my various projects, mainly the [Medli operating system](https://github.com/Siaranite-Solutions/Medli)
+- 🤝 I’m looking to collaborate on my various projects, mainly the [Medli operating system](https://github.com/Siaranite-Solutions/Medli)
 - 📫 How to reach me: arawn.davies@gmail.com
 - ⚡ Fun fact: My name is from Welsh mythology, and is the name of the King of the Underworld (https://en.wikipedia.org/wiki/Arawn)
 - 🔭 I’m currently working on many things, such as operating system development, console homebrew and modding, and hardware & software installation/modification/configuration
