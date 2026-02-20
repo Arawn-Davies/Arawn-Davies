@@ -10,4 +10,4 @@ I'm Arawn, and welcome to my GitHub profile!
 - 🧑‍💻 Experienced technical specialist in PostgreSQL, OpenAPI, OS Maps, QGIS, Linux, virtualization and much more.
 - 📫 How to reach me: arawn@arawn-davies.co.uk
 
-- [![Arawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=arawn-davies)](https://github.com/anuraghazra/github-readme-stats)
+- [![Arawn's GitHub stats](https://github-readme-stats-wine-iota-tb2u4glob2.vercel.app/api?username=arawn-davies)](https://github.com/Arawn-Davies/github-readme-stats)
