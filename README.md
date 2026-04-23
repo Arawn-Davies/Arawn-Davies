@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Arawn, and welcome to my GitHub profile!
 
-- 🧑‍🎓 Cyber Security MSc. at De Montfort University, Leicester, UK
+- 🧑‍🎓 Cyber Security MSc. graduate at De Montfort University, Leicester, UK
 - 🎓 1st with Placement year Honours degree in Computer Science BSc.
 - ⌨️ June 2022 to August 2023 - Placement Technical Specialist at Leicestershire County Council during my industry placement. 
 - 🤝 I’m always happy and looking for people to collaborate on my various projects, including the [Medli operating system](https://github.com/Arawn-Davies/Medli) and port of [Doom for the PlayStation 2](https://github.com/Arawn-Davies/pcsx2oom)
