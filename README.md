@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Arawn, a software developer and Computer Science graduate from Leicester, UK, with interests in operating systems, retro computing, cybersecurity, and low-level software development.
+I'm Arawn, a software developer and CompSci & CyberSec graduate from Leicester, UK, with interests in operating systems, retro computing, cybersecurity, and low-level software development.
 
 - 🧑‍🎓 Cyber Security MSc at De Montfort University, Leicester, UK
 - 🎓 First-Class Honours degree in Computer Science BSc with Placement Year in local government
